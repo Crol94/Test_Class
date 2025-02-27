@@ -1,0 +1,35 @@
+# ---- TITULO ---
+# Debe estar ordenado de la siguiete manera :
+# Objetivo ( Entorno ) : Explicaion
+#Ejemplo : SETTING (.gitignore): Agrega la configuracion de NodeJS al archivo
+#
+#
+#Recomendacion sobre el TITULO :  No mas de 50 caracter
+
+
+
+#--- Sobre el ticket ---
+- Numero de ticket Asana : 
+- URL del ticket Asana :
+
+#---- Sobre el Requirente ---
+- Nombre :
+- Correo :
+- Area :
+
+#--- Spring ---
+
+- Quater :
+- Sprint :
+- Semaana :
+
+
+# --Explicaion de nuestro trabajo---
+#
+# Por favor, ser concretos.
+**PROCEDIMIENTOS
+- Problema :
+
+- Solucion :
+
+- Recomendaciones :
