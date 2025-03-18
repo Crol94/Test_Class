@@ -2,7 +2,7 @@
 # Debe estar ordenado de la siguiete manera :
 #
 # Objetivo ( Entorno ) : Breve Explicaion
-# Ejemplo : SETTING (.gitignore): Agrega la configuracion de NodeJS al archivo
+# Ejemplo : SETTING ( .gitignore ): Agrega la configuracion de NodeJS al archivo
 #
 #
 # Recomendacion sobre el TITULO :  No mas de 50 caracter
@@ -11,11 +11,13 @@
 
 # --- Sobre el ticket ---
 ** DATOS DEL TICKET **
+
 - Numero de ticket Asana : 
 - URL del ticket Asana :
 
 # ---- Sobre el Requirente ---
 ** SOLICITANTES **
+
 - Nombre Apellido :
 - Correo :
 - Area :
@@ -32,6 +34,7 @@
 #
 # Por favor, ser concretos.
 ** PROCEDIMIENTOS **
+
 - Problema :
 
 - Solucion :
